@@ -12,4 +12,4 @@ for filename in os.listdir('Commands'):
 
 
 
-bot.run('OTA4NTM3NDM3NTU3NTA2MDc4.YY3LbA._bhMoM0h4hhZEHRD3__Wta5Q8A4')
+bot.run('TOKEN')
